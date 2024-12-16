@@ -1,0 +1,12 @@
+target/
+.idea/
+*.iws
+*.iml
+*.ipr
+*iml
+conf
+domain
+*.class
+*.log
+*.jar
+*.war
